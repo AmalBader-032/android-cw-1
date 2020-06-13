@@ -1,0 +1,20 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        
+ int a = 6 ;
+     
+    int e = 3 ;
+         
+   
+      int m = 6+3;
+     
+    int t = 6*3;
+   
+      boolean h = a > e ;
+   
+     System.out.println (m);
+ 
+       System.out.println (t);
+ 
+       System.out.println (h);
